@@ -1,0 +1,11 @@
+﻿/*红色版*/
+.header .f3{background-color:#C40001;}
+.header .f3 .f3_con .f3_con_menu .f3_con_left{background-color:#4F4F4F;}
+.header .f3 .f3_con .f3_con_menu .f3_con_right{background-color:#2e2e2e;color:#fff;}
+.header .f3 .f3_con ul li a{color:#fff;}
+.header .f3 .f3_con ul li a:hover{background-color:#4F4F4F;}
+.header .f3 .f3_con ul li a.c{background-color:#4F4F4F;}
+.search{border-color:#C40001; }
+#searchsub{background-color:#C40001;color:#fff;}
+.footer{background-color:#0168B7;border-top-color:#C40001;color:#DCDCDC}
+.footer a{color:#DCDCDC;}
